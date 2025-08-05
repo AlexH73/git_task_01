@@ -1,0 +1,15 @@
+body {
+    background-color: aliceblue;
+    height: 100%;
+    width: 100%;
+}
+
+header {
+    height: 50px;
+    background-color: aqua;
+}
+
+footer {
+    height: 50px;
+    background-color: blueviolet;
+}
